@@ -6,11 +6,11 @@ on:
   pull_request:
     branches: ["*"]
   schedule:
-  - cron: 0 0 * * 1
+  - cron: 0 0 * * 1 # run on Monday once a week
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
       - name: Prep binaries
