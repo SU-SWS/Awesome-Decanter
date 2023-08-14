@@ -9,7 +9,7 @@ A curated list of awesome Decanter resources.
 - [dev-decanter-v7.netlify.app](dev-decanter-v7.netlify.app)
 
 ## Websites built with Decanter
-- [earth.stanford.edu](https://earth.stanford.edu)
+- [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu)
 - [engineering.stanford.edu](https://engineering.stanford.edu)
 - [alumni.stanford.edu](https://alumni.stanford.edu)
 - [giving.stanford.edu](https://giving.stanford.edu)
