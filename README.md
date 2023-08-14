@@ -23,3 +23,6 @@ A curated list of awesome Decanter resources.
 
 ## Other Awesome Lists
 A curated list of awesome lists can be found at [awesome.re](https://awesome.re/)
+
+## License
+Decanter is licensed under [GPL-3.0](/LICENSE.md)
