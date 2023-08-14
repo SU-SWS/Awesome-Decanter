@@ -23,6 +23,3 @@ A curated list of awesome Decanter resources.
 
 ## Other Awesome Lists
 A curated list of awesome lists can be found at [awesome.re](https://awesome.re/)
-
-## License
-Lorem Ipsum dolor secum...
