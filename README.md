@@ -5,8 +5,8 @@ A curated list of awesome Decanter resources.
 ## Links
 - [decanter.stanford.edu](https://decanter.stanford.edu)
 - [SU-SWS/decanter](https://github.com/SU-SWS/decanter)
-- [decanter-v7.netlify.app](https://decanter-v7.netlify.app)
-- [dev-decanter-v7.netlify.app](https://dev-decanter-v7.netlify.app)
+- [Decanter V7 - Elements](https://decanter-v7.netlify.app)
+- [decanter-v6.netlify.app](https://decanter-v6.netlify.app)
 
 ## Websites built with Decanter
 - [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu)
