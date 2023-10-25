@@ -13,13 +13,16 @@ A curated list of awesome Decanter resources.
 - [engineering.stanford.edu](https://engineering.stanford.edu)
 - [alumni.stanford.edu](https://alumni.stanford.edu)
 - [giving.stanford.edu](https://giving.stanford.edu)
+- [give.stanford.edu](https://give.stanford.edu)
+- [https://redwoodcity.stanford.edu](https://redwoodcity.stanford.edu)
+- [Stanford Events Calendar on Localist](https://events.stanford.edu)
+- [Stanford Libraries](https://library.stanford.edu)
 
 ## Themes/Tools/Frameworks
 - [Stanford Basic - Drupal Theme](https://github.com/su-sws/stanford_basic/)
 - [Redwood - Wordpress Theme](https://drive.google.com/file/d/1VWwgp0pWy6pANO-i7LBSFJr-U1khhQWp/view)
 - [Backdrop Theme](https://github.com/borisay/backdrop_decanter)
 - [Jumpstart UI - Drupal Components](https://github.com/SU-SWS/jumpstart_ui)
-- [decanter-react.netlify.app storybook](https://decanter-react.netlify.app/)
 
 ## Other Awesome Lists
 A curated list of awesome lists can be found at [awesome.re](https://awesome.re/)
