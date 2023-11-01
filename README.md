@@ -15,7 +15,7 @@ A curated list of awesome Decanter resources.
 - [alumni.stanford.edu](https://alumni.stanford.edu)
 - [giving.stanford.edu](https://giving.stanford.edu)
 - [give.stanford.edu](https://give.stanford.edu)
-- [https://redwoodcity.stanford.edu](https://redwoodcity.stanford.edu)
+- [redwoodcity.stanford.edu](https://redwoodcity.stanford.edu)
 - [Stanford Events Calendar on Localist](https://events.stanford.edu)
 - [Stanford Libraries](https://library.stanford.edu)
 
