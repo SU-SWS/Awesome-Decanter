@@ -19,6 +19,7 @@ A curated list of awesome Decanter resources.
 - [Stanford Events Calendar on Localist](https://events.stanford.edu)
 - [Stanford Libraries](https://library.stanford.edu)
 - [craft.stanford.edu](https://craft.stanford.edu/)
+- [momentum.stanford.edu](https://momentum.stanford.edu/)
 
 ## Themes/Tools/Frameworks
 - [Stanford Basic - Drupal Theme](https://github.com/su-sws/stanford_basic/)
