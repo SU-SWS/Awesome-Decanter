@@ -23,7 +23,8 @@ A curated list of awesome Decanter resources.
 ## Themes/Tools/Frameworks
 - [Stanford Basic - Drupal Theme](https://github.com/su-sws/stanford_basic/)
 - [Redwood - Wordpress Theme](https://drive.google.com/file/d/1VWwgp0pWy6pANO-i7LBSFJr-U1khhQWp/view)
-- [Backdrop Theme](https://github.com/borisay/backdrop_decanter)
+- [Backdrop Theme (v6)](https://github.com/borisay/backdrop_decanter)
+- [Backdrop Theme (v7)](https://github.com/backdrop-contrib/stanford_decanter)
 - [Jumpstart UI - Drupal Components](https://github.com/SU-SWS/jumpstart_ui)
 
 ## Other Awesome Lists
