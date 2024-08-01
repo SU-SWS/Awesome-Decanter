@@ -3,22 +3,23 @@
 A curated list of awesome Decanter resources.
 
 ## Links
-- [decanter.stanford.edu](https://decanter.stanford.edu)
-- [SU-SWS/decanter](https://github.com/SU-SWS/decanter)
+- [Decanter Website](https://decanter.stanford.edu)
+- [SU-SWS/decanter Github Repo](https://github.com/SU-SWS/decanter)
 - [Decanter V7 - Elements](https://decanter-v7.netlify.app)
 
 ## Websites built with Decanter
 - [Stanford Doerr School of Sustainability](https://sustainability.stanford.edu)
-- [engineering.stanford.edu](https://engineering.stanford.edu)
-- [alumni.stanford.edu](https://alumni.stanford.edu)
-- [giving.stanford.edu](https://giving.stanford.edu)
-- [give.stanford.edu](https://give.stanford.edu)
-- [redwoodcity.stanford.edu](https://redwoodcity.stanford.edu)
+- [Stanford Engineering](https://engineering.stanford.edu)
+- [Stanford Alumni](https://alumni.stanford.edu)
+- [Giving to Stanford](https://giving.stanford.edu)
+- [Online Giving](https://give.stanford.edu)
+- [Redwood City](https://redwoodcity.stanford.edu)
 - [Stanford Events Calendar on Localist](https://events.stanford.edu)
 - [Stanford Libraries](https://library.stanford.edu)
-- [craft.stanford.edu](https://craft.stanford.edu/)
-- [momentum.stanford.edu](https://momentum.stanford.edu/)
-- [coursediscovery.gse.stanford.edu](https://coursediscovery.gse.stanford.edu/)
+- [CRAFT](https://craft.stanford.edu/)
+- [Momentum](https://momentum.stanford.edu/)
+- [Course Discovery - GSE](https://coursediscovery.gse.stanford.edu/)
+- [Stanford Report](https://news.stanford.edu/)
 
 ## Themes/Tools/Frameworks
 - [Stanford Basic - Drupal Theme](https://github.com/su-sws/stanford_basic/)
