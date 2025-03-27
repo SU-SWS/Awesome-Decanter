@@ -20,6 +20,9 @@ A curated list of awesome Decanter resources.
 - [Momentum](https://momentum.stanford.edu/)
 - [Course Discovery - GSE](https://coursediscovery.gse.stanford.edu/)
 - [Stanford Report](https://news.stanford.edu/)
+- [Open Minds](https://openminds.stanford.edu/)
+- [Stanford Engineering Centennial](https://engineering100.stanford.edu/)
+- [Stanford University Press](https://sup.org/)
 
 ## Themes/Tools/Frameworks
 - [Stanford Basic - Drupal Theme](https://github.com/su-sws/stanford_basic/)
